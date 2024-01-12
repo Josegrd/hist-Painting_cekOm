@@ -1,1 +1,3 @@
-# histPainting_cekOm
+install libs
+ - turtle
+ - colorgram
